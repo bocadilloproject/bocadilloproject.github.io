@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{409:function(t,e,o){"use strict";o.r(e);var l={props:["text"]},n=o(6),s=Object(n.a)(l,function(){var t=this.$createElement;return(this._self._c||t)("custom-link",{attrs:{href:"https://github.com/bocadilloproject/bocadillo",text:this.text}})},[],!1,null,null,null);e.default=s.exports}}]);

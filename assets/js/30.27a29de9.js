@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{407:function(t,e,l){"use strict";l.r(e);var n={props:{text:{default:"@bocadillopy"}}},o=l(6),s=Object(o.a)(n,function(){var t=this.$createElement;return(this._self._c||t)("custom-link",{attrs:{href:"https://twitter.com/bocadillopy",text:this.text}})},[],!1,null,null,null);e.default=s.exports}}]);
